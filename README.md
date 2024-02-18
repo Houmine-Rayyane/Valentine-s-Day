@@ -10,17 +10,17 @@ Installation:
 Ensure you have Python installed on your system. If not, you can download it from python.org.
 Clone this repository to your local machine or download the ZIP file and extract it.
 
-git clone https://github.com/your-username/be-my-valentine.git
+     git clone https://github.com/your-username/be-my-valentine.git
 
 Running the Application:
 
 Navigate to the project directory.
 
-cd be-my-valentine 
+     cd be-my-valentine 
 
 Run the Python script.
 
-python be_my_valentine.py
+     python be_my_valentine.py
 
 Interaction:
 
@@ -32,7 +32,7 @@ Pygame library
 
 How to install pygame:
 
-pip install pygame 
+     pip install pygame 
 
 
 Feel free to customize and modify the application according to your preferences! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or create a pull request. Enjoy using this application to ask someone special to be your Valentine! 🌹❤️
